@@ -1,3 +1,4 @@
+from ultralytics import YOLO
 import streamlit as st
 import torch
 import cv2
